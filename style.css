@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background:linear-gradient(to right, red, yellow);
+}
+
+h1 {
+  font-size: 5rem;
+  color: white;
+  font-family: cursive;
+  text-shadow: 3px 0 red;
+}
+
+footer {
+  color: white;
+  font-family: sans-serif;
+}
+
+button {
+  height: 150px;
+  width: 150px;
+}
+
+.j {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHuyiyXajgj1HnrtngYXAsA4B72Pmtc7P1bw&s);
+}
+
+.k {
+  background-image: url(https://easydrawingguides.com/wp-content/uploads/2023/05/Acoustic-Guitar-11_acoustic-guitar-drawing-tutorial.png);
+}
+
+.l {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ033gGnA9mwen-13DLIV-VjrYpxjnYuDUIQ&s);
+}
+
+.w {
+  background-image: url(https://m.media-amazon.com/images/I/61TLnHKLZWL._UF1000,1000_QL80_.jpg);
+}
+
+.a {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQfysbHVskQQ6sptsHTE7Cw4wg9Ojozumvw&s);
+}
+
+.s {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHuyiyXajgj1HnrtngYXAsA4B72Pmtc7P1bw&s);
+}
+
+.d {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQfysbHVskQQ6sptsHTE7Cw4wg9Ojozumvw&s);
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 30px 4px 0 white;
+  opacity: 0.5s;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border-radius: 0%;
+  font-size: 4rem;
+  line-height: 2;
+  padding: 15px;
+  border-radius: 20px;
+  border: none;
+  image-resolution: 150px;
+}
